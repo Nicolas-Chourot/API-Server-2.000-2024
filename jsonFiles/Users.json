@@ -1,0 +1,15 @@
+[
+    {
+        "Id": "14cc9390-9057-11ee-9387-59e9bc2909e7",
+        "Email": "Nicolas.Chourot@clg.qc.ca",
+        "Password": "password",
+        "Name": "Nicolas Chourot",
+        "Avatar": "f5795080-4468-11ee-8281-2f600646bb7f.jpeg",
+        "Created": 1702469431,
+        "Authorizations": {
+            "readAccess": 2,
+            "writeAccess": 2
+        },
+        "VerifyCode": "verified"
+    }
+]
